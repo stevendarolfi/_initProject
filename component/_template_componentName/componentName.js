@@ -101,26 +101,32 @@ data CRUDS functions
 ********************/
 /*****
 CREATE
+app.component.NAME.func.create
 ******/
 
 /********
 CREATESET
+app.component.NAME.func.createSet
 ********/
 
 /*******
 RETRIEVE
+app.component.NAME.func.retrieve
 *******/
 
 /*****
 UPDATE
+app.component.NAME.func.update
 ******/
 
 /*****
 DELETE
+app.component.NAME.func.delete
 ******/
 
 /**
 SET
+app.component.NAME.func.set
 ***/
 
 /*******************
@@ -128,26 +134,32 @@ view CRUDS functions
 *******************/
 /***
 MAKE
+app.component.NAME.func.make
 ****/
 
 /*********
 MAKEAPPEND
+app.component.NAME.func.makeAppend
 *********/
 
 /**
 GET
+app.component.NAME.func.get
 ***/
 
 /***
 GIVE
+app.component.NAME.func.give
 ****/
 
 /*****
 REMOVE
+app.component.NAME.func.remove
 ******/
 
 /*****
 APPEND
+app.component.NAME.func.append
 ******/
 
 /**************
@@ -155,20 +167,25 @@ other functions
 **************/
 /****
 EVENT
+app.component.NAME.func.event
 *****/
 
 /***
 INIT
+app.component.NAME.func.init
 ****/
 
 /*
 IS
+app.component.NAME.func.is
 **/
 
 /***
 SORT
+app.component.NAME.func.sort
 ****/
 
 /*********
 TRANSITION
+app.component.NAME.func.transition
 *********/
