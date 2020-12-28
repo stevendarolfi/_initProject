@@ -18,18 +18,18 @@ app.component.NAME.state = {};
 FUNC
 ****/
 app.component.NAME.func = {};
-/*******************
-data CRUDS functions
-********************/
+/**********************
+CRUD functions for data
+***********************/
 app.component.NAME.func.create     = {};
 app.component.NAME.func.createSet  = {};
 app.component.NAME.func.retrieve   = {};
 app.component.NAME.func.update     = {};
 app.component.NAME.func.delete     = {};
 app.component.NAME.func.set        = {};
-/******************
-view CRUD functions
-*******************/
+/**********************
+CRUD functions for view
+***********************/
 app.component.NAME.func.make       = {};
 app.component.NAME.func.makeAppend = {};
 app.component.NAME.func.get        = {};
@@ -49,9 +49,9 @@ app.component.NAME.func.transition = {};
 /********************
 hotkeys for functions
 *********************
-********************
-data CRUDS functions
-********************
+***********************
+CRUD functions for data
+***********************
 CREATE
 
 CREATESET
@@ -64,9 +64,9 @@ DELETE
 
 SET
 
-********************
-view CRUDS functions
-********************
+***********************
+CRUD functions for view
+***********************
 MAKE
 
 MAKEAPPEND
@@ -95,9 +95,9 @@ TRANSITION
 */
 
 
-/********************
-data CRUDS functions
-********************/
+/**********************
+CRUD functions for data
+***********************/
 /*****
 CREATE
 ******/
@@ -122,9 +122,9 @@ DELETE
 SET
 ***/
 
-/*******************
-view CRUDS functions
-*******************/
+/**********************
+CRUD functions for view
+***********************/
 /***
 MAKE
 ****/
