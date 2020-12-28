@@ -21,11 +21,11 @@ app.component.NAME.func = {};
 /*******************
 data CRUDS functions
 ********************/
-app.component.NAME.func.create     = {}
+app.component.NAME.func.create     = {};
 app.component.NAME.func.createSet  = {};
 app.component.NAME.func.retrieve   = {};
 app.component.NAME.func.update     = {};
-app.component.NAME.func.delete     = {}
+app.component.NAME.func.delete     = {};
 app.component.NAME.func.set        = {};
 /******************
 view CRUD functions
